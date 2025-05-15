@@ -4,7 +4,7 @@
 
 **Diese Datei überpruft Email**
 
-###Drinnen kann man finden : 
+### Drinnen kann man finden: 
 
 | - src
 |     | - main\java\at\...
